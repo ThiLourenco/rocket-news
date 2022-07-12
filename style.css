@@ -26,7 +26,7 @@ main {
 
 aside {
   height: 100vh;
-  background-image: url(../assets/read_news1.png);
+  background-image: url(../assets/read_news1.png) !important;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
