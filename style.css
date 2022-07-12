@@ -81,6 +81,24 @@ aside {
   margin-top: 9px;
 }
 
+.form-label {
+  color: var(--text-color);
+  font-family: 'Spartan', 'sans-serif';
+  font-weight: 700;
+  font-size: 0.88rem;
+  line-height: 1rem;
+  margin-top: 8.76px;
+}
+
+.text {
+  color: var(--title-color);
+  font-family: 'Spartan', 'sans-serif';
+  font-weight: 700;
+  font-size: 0.88rem;
+  line-height: 1rem;
+  margin-top: 8.76px;
+}
+
 #form {
   margin-left: 2.25rem;
   margin-top: 50px;
