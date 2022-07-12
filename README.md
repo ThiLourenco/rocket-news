@@ -4,7 +4,7 @@
 ## :computer: Sobre o desafio
 
 
-Desenvolva uma página para inscrição de newsletter.
+Desenvolva uma página para captação de leads ou newsletter.
 
 ## :rocket: Techs
 
