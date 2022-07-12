@@ -26,7 +26,7 @@ main {
 
 aside {
   height: 100vh;
-  background-image: url(../assets/read_news1.png);
+  background-image: url(./assets/read_news1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -135,7 +135,7 @@ fieldset > legend {
   padding: 10px;
 }
 
-input:focus { /*retirar a borda do input quando clicado*/
+input:focus { 
     box-shadow: 0 0 0 0;
     outline: 0;
 }
